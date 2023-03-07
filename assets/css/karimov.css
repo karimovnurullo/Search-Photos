@@ -1,0 +1,129 @@
+
+/* ============================= Fade In Animation ============================= */
+.karimov__fadeIn{
+    opacity: 0;
+    transition: all 1s;
+}
+.karimov__fadeIn__css{
+    opacity: 1;
+}
+/* ============================= Fade In Down Animation ============================= */
+.karimov__fadeInDown{
+    opacity: 0;
+    transform: translateY(-100%);
+    transition: all 1s;
+}
+.karimov__fadeInDown__css{
+    opacity: 1;
+    transform: translateY(0);
+}
+/* ============================= Fade In Down Big Animation ============================= */
+.karimov__fadeInDownBig{
+    opacity: 0;
+    transform: translateY(-200%);
+    transition: all 1s;
+}
+.karimov__fadeInDownBig__css{
+    opacity: 1;
+    transform: translateY(0);
+} 
+/* ============================= Fade In left Animation ============================= */
+.karimov__fadeInLeft{
+    opacity: 0;
+    transform: translateX(-100%);
+    transition: all 1s;
+}
+.karimov__fadeInLeft__css{
+    opacity: 1;
+    transform: translateX(0);
+} 
+/* ============================= Fade In left Big Animation ============================= */
+.karimov__fadeInLeftBig{
+    opacity: 0;
+    transform: translateX(-200%);
+    transition: all 1s;
+}
+.karimov__fadeInLeftBig__css{
+    opacity: 1;
+    transform: translateX(0);
+} 
+/* ============================= Fade In Right Animation ============================= */
+.karimov__fadeInRight{
+    opacity: 0;
+    transform: translateX(100%);
+    transition: all 1s;
+}
+.karimov__fadeInRight__css{
+    opacity: 1;
+    transform: translateX(0);
+} 
+/* ============================= Fade In Right Big Animation ============================= */
+.karimov__fadeInRightBig{
+    opacity: 0;
+    transform: translateX(200%);
+    transition: all 1s;
+}
+.karimov__fadeInRightBig__css{
+    opacity: 1;
+    transform: translateX(0);
+} 
+/* ============================= Fade In Up Animation ============================= */
+.karimov__fadeInUp{
+    opacity: 0;
+    transform: translateY(100%);
+    transition: all 1s;
+}
+.karimov__fadeInUp__css{
+    opacity: 1;
+    transform: translateY(0);
+} 
+/* ============================= Fade In Up Big Animation ============================= */
+.karimov__fadeInUpBig{
+    opacity: 0;
+    transform: translateY(200%);
+    transition: all 1s;
+}
+.karimov__fadeInUpBig__css{
+    opacity: 1;
+    transform: translateY(0);
+} 
+/* ============================= Fade In Top Left Animation ============================= */
+.karimov__fadeInTopLeft{
+    opacity: 0;
+    transform: translate(-200%,-200%);
+    transition: all 1s;
+}
+.karimov__fadeInTopLeft__css{
+    opacity: 1;
+    transform: translate(0);
+} 
+/* ============================= Fade In Top Right Animation ============================= */
+.karimov__fadeInTopRight{
+    opacity: 0;
+    transform: translate(200%,-200%);
+    transition: all 1s;
+}
+.karimov__fadeInTopRight__css{
+    opacity: 1;
+    transform: translate(0);
+} 
+/* ============================= Fade In Bottom Left Animation ============================= */
+.karimov__fadeInBottomLeft{
+    opacity: 0;
+    transform: translate(-200%, 200%);
+    transition: all 1s;
+}
+.karimov__fadeInBottomLeft__css{
+    opacity: 1;
+    transform: translate(0);
+} 
+/* ============================= Fade In Bottom Right Animation ============================= */
+.karimov__fadeInBottomRight{
+    opacity: 0;
+    transform: translate(200%, 200%);
+    transition: all 1s;
+}
+.karimov__fadeInBottomRight__css{
+    opacity: 1;
+    transform: translate(0);
+} 
